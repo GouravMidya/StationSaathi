@@ -209,7 +209,7 @@ export default function StationFacilities() {
                 <Card>
                   <CardContent>
                     <Typography variant="h6"><UsersIcon sx={{ mr: 1 }} />Play Areas for Children</Typography>
-                    <Typography variant="body2">Kids' Corner located near the food court</Typography>
+                    <Typography variant="body2">Kid&apos;s Corner located near the food court</Typography>
                   </CardContent>
                 </Card>
               </Grid>
